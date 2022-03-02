@@ -23,7 +23,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/tidbyt/go-libwebp v0.0.0-20220302033350-dd1cead28df2
 	github.com/zachomedia/go-bdf v0.0.0-20210522061406-1a147053be95
-	go.starlark.net v0.0.0-20220223235035-243c74974e97
+	go.starlark.net c8e9b32ba2fb
 	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
 	golang.org/x/net v0.0.0-20210825183410-e898025ed96a // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
